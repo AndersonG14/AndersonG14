@@ -1,4 +1,4 @@
-### Olá! eu sou o Anderson Gomes
+### Olá! Eu sou o Anderson Gomes
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonG14&show_icons=true&theme=dracula)
 
