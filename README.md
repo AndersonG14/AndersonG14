@@ -18,3 +18,5 @@
 
 Atualmente sou estudante de Ciências da Computação na UFPB. Sou apaixonado por tecnologia, educação e por transformar a vida das pessoas por meio da programação.
 
+![Snake animation](https://github.com/AndersonG14/AndersonG14/blob/output/github-contribution-grid-snake.svg)
+
