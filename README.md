@@ -20,3 +20,4 @@ Atualmente sou estudante de Ciências da Computação na UFPB. Sou apaixonado po
 
 ![Snake animation](https://github.com/AndersonG14/AndersonG14/blob/output/github-contribution-grid-snake.svg)
 
+![snake animation](https://github.com/AndersonG14/AndersonG14/blob/output/github-contribution-grid-snake2.svg)
