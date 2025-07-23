@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Anderson Gomes
 
 
-<div>
+<div align=center>
   <a href="https://beacons.ai/AndersonG14">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AndersonG14&show_icons=true&theme=dracula"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonG14&layout=compact&langs_count=16&theme=dracula"/>
